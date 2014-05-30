@@ -1,0 +1,11 @@
+   <widget id="com.example.hello" version="0.0.1">
+        <name>Sam App</name>
+        <description>
+            A very random quiz.
+        </description>
+        <author email="dev@callback.apache.org" href="http://phonegap.com">
+            Samuel Martin
+        </author>
+        <content src="index.html" />
+        <access origin="*" />
+    </widget>
